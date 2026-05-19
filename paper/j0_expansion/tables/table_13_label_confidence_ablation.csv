@@ -1,0 +1,4 @@
+policy_variant,information_count,noise_count,computed_total,information_share,deduplicated_event_estimate,hawkes_refit_status,note
+baseline_ppi_primary,34,12,46,0.739130,23,fitted_in_main_table,"PPI primary, RR validator; full computed surface used for the Hawkes comparison."
+strict_agreement_only,4,12,16,0.250000,8,deferred_to_J2,PPI=Information AND RR=Information for Information; Noise unchanged. A Hawkes refit on this 16-event subset is in J2 scope.
+low_confidence_excluded,4,12,16,0.250000,8,deferred_to_J2,Drop the 30 Low-confidence Information rows where PPI=Information and RR=Noise. Coincides with strict_agreement_only on this surface; reported separately to make the policy intent explicit.

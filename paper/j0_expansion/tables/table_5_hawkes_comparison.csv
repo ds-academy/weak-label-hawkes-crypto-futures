@@ -1,0 +1,7 @@
+cohort_name,model,fit_success,optimizer_iterations,log_likelihood_in_sample,log_likelihood_oos,ll_delta_vs_m0,aic_delta_vs_m0,bic_delta_vs_m0,lrt_p_value_vs_m0,beta_information,beta_noise,half_life_information_sec,half_life_noise_sec
+main,M0,true,20,-5358.818270,-1340.585982,0.000000,0.000000,0.000000,NULL,NULL,NULL,NULL,NULL
+main,M1,true,42,-5358.033776,-1340.481806,0.784494,4.431013,21.111254,0.666442,0.431890,0.100154,1.604915,6.920827
+main,M2,true,18,-5358.286636,-1340.453740,0.531634,-1.063269,-1.063269,NULL,0.435963,NULL,1.589920,NULL
+robustness_symbol,M0,true,38,-4909.223627,-1226.240294,0.000000,0.000000,0.000000,NULL,NULL,NULL,NULL,NULL
+robustness_symbol,M1,true,54,-4909.213999,-1226.231780,0.009628,5.980744,22.399951,0.999293,0.055496,0.065329,12.490045,10.610058
+robustness_symbol,M2,true,40,-4911.339559,-1226.174056,-2.115932,4.231864,4.231864,NULL,0.056728,NULL,12.218794,NULL

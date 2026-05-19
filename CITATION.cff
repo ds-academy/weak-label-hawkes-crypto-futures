@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Diagnostic Weak-Label Hawkes Validation for Event-Driven Crypto Futures"
+type: software
+version: v1
+date-released: 2026-05-07
+license: MIT
+repository-code: "https://github.com/ds-academy/weak-label-hawkes-crypto-futures"
+authors:
+  - family-names: Jeon
+    given-names: Joohyoung
+    affiliation: Korea University, Seoul, Republic of Korea
+keywords:
+  - Hawkes process
+  - weak supervision
+  - event-driven trading
+  - crypto futures
+  - diagnostic validation
+  - reproducibility
+abstract: >-
+  We build an auditable diagnostic layer for event-driven weak labels
+  in crypto futures microstructure. The framework maps external event
+  timestamps to activation rows, decomposes market response into
+  persistent price impact and liquidity recovery, assigns
+  PPI-primary/RR-validator labels, and asks whether the resulting
+  classes imply different bucketed exogenous Hawkes decay in
+  subsequent buy/sell order flow. The contribution is a quantification
+  of three structural barriers (PPI/RR semantic misalignment,
+  event-family confounding, bucket-level identification limits)
+  identified by the validation pipeline on BTC/ETH Binance futures,
+  together with a reproducible artifact contract on which later
+  ex-ante prediction and execution research can build.
+preferred-citation:
+  type: article
+  title: "Diagnostic Weak-Label Hawkes Validation for Event-Driven Crypto Futures"
+  authors:
+    - family-names: Jeon
+      given-names: Joohyoung
+      affiliation: Korea University, Seoul, Republic of Korea
+  year: 2026
+  url: "https://github.com/ds-academy/weak-label-hawkes-crypto-futures"

@@ -1,0 +1,7 @@
+ppi_verdict,recovery_verdict,label_status,label,label_confidence,count
+NULL,NULL,abstain_confounded,NULL,NULL,4
+NULL,NULL,insufficient_horizon_data,NULL,NULL,8
+information,information,computed,Information,High,4
+information,noise,computed,Information,Low,30
+noise,noise,computed,Noise,High,12
+undetermined,noise,abstain_ambiguous,NULL,NULL,2

@@ -1,0 +1,15 @@
+category,subcategory,count,share_of_added,note
+Header,added_candidates,41,1.000000,Expanded universe minus baseline universe by event_id (95 - 54).
+Family,CPI/inflation,12,0.292683,Macro release family inferred from canonical body_or_url.
+Family,Other macro,12,0.292683,Macro release family inferred from canonical body_or_url.
+Family,Retail sales,8,0.195122,Macro release family inferred from canonical body_or_url.
+Family,GDP/growth,4,0.097561,Macro release family inferred from canonical body_or_url.
+Family,ISM/PMI,2,0.048780,Macro release family inferred from canonical body_or_url.
+Family,Labor,2,0.048780,Macro release family inferred from canonical body_or_url.
+Family,PPI/producer,1,0.024390,Macro release family inferred from canonical body_or_url.
+Country,US,24,0.585366,Source country from the canonical event row.
+Country,EU,9,0.219512,Source country from the canonical event row.
+Country,GB,8,0.195122,Source country from the canonical event row.
+Window,in_market_window,25,0.609756,"Event timestamp inside [2026-02-26, 2026-04-27] market-data window."
+Window,out_of_market_window,16,0.390244,Event timestamp outside the market-data window; activation impossible by construction.
+Activation outcome,missing_market_data,41,1.000000,Activation rejected because the event window had no usable market data.

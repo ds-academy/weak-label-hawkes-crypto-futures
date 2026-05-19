@@ -1,0 +1,5 @@
+label_status,count,share_of_label_input
+abstain_ambiguous,2,0.0333
+abstain_confounded,4,0.0667
+computed,46,0.7667
+insufficient_horizon_data,8,0.1333

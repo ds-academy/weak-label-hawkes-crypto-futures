@@ -1,0 +1,11 @@
+cohort_name,family,computed_information,computed_noise,abstain_or_other,total_rows,unique_event_timestamps,note
+main,Labor,8,0,2,10,2,Information-only family; BTCUSDT cohort
+main,CPI/inflation,0,6,2,8,2,Noise-only family; BTCUSDT cohort
+main,Retail sales,6,0,2,8,2,Information-only family; BTCUSDT cohort
+main,ISM/PMI,4,0,0,4,2,Information-only family; BTCUSDT cohort
+main,PPI/producer,0,0,2,2,1,abstain-only family; BTCUSDT cohort
+robustness_symbol,Labor,8,0,2,10,2,Information-only family; ETHUSDT cohort
+robustness_symbol,CPI/inflation,0,6,2,8,2,Noise-only family; ETHUSDT cohort
+robustness_symbol,Retail sales,6,0,0,6,1,Information-only family; ETHUSDT cohort
+robustness_symbol,ISM/PMI,2,0,0,2,1,Information-only family; ETHUSDT cohort
+robustness_symbol,PPI/producer,0,0,2,2,1,abstain-only family; ETHUSDT cohort

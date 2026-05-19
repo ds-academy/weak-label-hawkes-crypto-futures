@@ -1,0 +1,9 @@
+cohort,model,spectral_radius,stationary,source
+main,M0,1.999961e-09,true,K17 H3 bounded optimizer fit
+main,M1,1.999836e-09,true,K17 H3 bounded optimizer fit
+main,M2,1.999948e-09,true,K17 H3 bounded optimizer fit
+main,M_endog,1.561656e-01,true,K18-3 endogenous-only diagnostic fit (K17-bounded)
+robustness_symbol,M0,1.999821e-09,true,K17 H3 bounded optimizer fit
+robustness_symbol,M1,1.999464e-09,true,K17 H3 bounded optimizer fit
+robustness_symbol,M2,1.999654e-09,true,K17 H3 bounded optimizer fit
+robustness_symbol,M_endog,6.791157e-03,true,K18-3 endogenous-only diagnostic fit (K17-bounded)

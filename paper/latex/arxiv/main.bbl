@@ -1,0 +1,110 @@
+\begin{thebibliography}{10}
+
+\bibitem{AndersenEtAl2003MacroAnnouncements}
+Torben~G. Andersen, Tim Bollerslev, Francis~X. Diebold, and Clara Vega.
+\newblock Micro effects of macro announcements: Real-time price discovery in
+  foreign exchange.
+\newblock Working Paper 8959, National Bureau of Economic Research, 2002.
+\newblock Working-paper version. Published as Andersen, Bollerslev, Diebold,
+  and Vega (2003), ``Micro Effects of Macro Announcements: Real-Time Price
+  Discovery in Foreign Exchange,'' \emph{American Economic Review},
+  93(1):38--62, doi:10.1257/000282803321455151.
+
+\bibitem{BachEtAl2019DryBell}
+Stephen~H. Bach, Bryan He, Alexander Ratner, and Christopher Re.
+\newblock Snorkel drybell: A case study in deploying weak supervision at
+  industrial scale.
+\newblock In {\em Proceedings of the 2019 International Conference on
+  Management of Data}, pages 362--375, 2019.
+
+\bibitem{BacryMastromatteoMuzy2015HawkesFinance}
+Emmanuel Bacry, Iacopo Mastromatteo, and Jean-Francois Muzy.
+\newblock Hawkes processes in finance.
+\newblock {\em Market Microstructure and Liquidity}, 1(1):1550005, 2015.
+
+\bibitem{BarndorffNielsenShephard2006Jumps}
+Ole~E. Barndorff-Nielsen and Neil Shephard.
+\newblock Econometrics of testing for jumps in financial economics using
+  bipower variation.
+\newblock {\em Journal of Financial Econometrics}, 4(1):1--30, 2006.
+
+\bibitem{CampigliBormettiLillo2023PriceImpact}
+Francesco Campigli, Giacomo Bormetti, and Fabrizio Lillo.
+\newblock Measuring price impact and information content of trades in a
+  time-varying setting, 2023.
+
+\bibitem{CestariEtAl2023CryptoHawkesLOB}
+Raffaele~Giuseppe Cestari, Filippo Barchi, Riccardo Busetto, Daniele Marazzina,
+  and Simone Formentin.
+\newblock Hawkes-based cryptocurrency forecasting via limit order book data,
+  2023.
+
+\bibitem{ContKukanovStoikov2014OrderBookEvents}
+Rama Cont, Arseniy Kukanov, and Sasha Stoikov.
+\newblock The price impact of order book events.
+\newblock {\em Journal of Financial Econometrics}, 12(1):47--88, 2014.
+
+\bibitem{GlostenMilgrom1985BidAsk}
+Lawrence~R. Glosten and Paul~R. Milgrom.
+\newblock Bid, ask and transaction prices in a specialist market with
+  heterogeneously informed traders.
+\newblock {\em Journal of Financial Economics}, 14(1):71--100, 1985.
+
+\bibitem{Kyle1985ContinuousAuctions}
+Albert~S. Kyle.
+\newblock Continuous auctions and insider trading.
+\newblock {\em Econometrica}, 53(6):1315--1335, 1985.
+
+\bibitem{LeeSeo2017MarkedHawkes}
+Kyungsub Lee and Byoung~Ki Seo.
+\newblock Marked hawkes process modeling of price dynamics and volatility
+  estimation.
+\newblock {\em Journal of Empirical Finance}, 40:174--200, 2017.
+
+\bibitem{LuAbergel2018HighDimensionalLOBHawkes}
+Xiaofei Lu and Frederic Abergel.
+\newblock High-dimensional hawkes processes for limit order books: Modelling,
+  empirical analysis and numerical calibration.
+\newblock {\em Quantitative Finance}, 18(2):249--264, 2018.
+
+\bibitem{MacKinlay1997EventStudies}
+A.~Craig MacKinlay.
+\newblock Event studies in economics and finance.
+\newblock {\em Journal of Economic Literature}, 35(1):13--39, 1997.
+
+\bibitem{MarkSilaWeber2022CryptoEndogeneity}
+Michael Mark, Jan Sila, and Thomas~A. Weber.
+\newblock Quantifying endogeneity of cryptocurrency markets.
+\newblock {\em The European Journal of Finance}, 28(7):784--799, 2022.
+
+\bibitem{MorariuPatrichiPakkanen2022StateDependentHawkes}
+Maxime Morariu-Patrichi and Mikko~S. Pakkanen.
+\newblock State-dependent hawkes processes and their application to limit order
+  book modelling.
+\newblock {\em Quantitative Finance}, 22(3):563--583, 2022.
+
+\bibitem{RaffaelliEtAl2026BitcoinHawkesLOB}
+D.~Raffaelli, Raffaele~Giuseppe Cestari, Daniele Marazzina, and Simone
+  Formentin.
+\newblock Forecasting bitcoin price movements using multivariate hawkes
+  processes and limit order book data.
+\newblock {\em Decisions in Economics and Finance}, 2026.
+
+\bibitem{RatnerEtAl2017Snorkel}
+Alexander Ratner, Stephen~H. Bach, Henry Ehrenberg, Jason Fries, Sen Wu, and
+  Christopher Re.
+\newblock Snorkel: Rapid training data creation with weak supervision.
+\newblock {\em Proceedings of the VLDB Endowment}, 11(3):269--282, 2017.
+
+\bibitem{ScailletTreccaniTrevisan2020BitcoinJumps}
+Olivier Scaillet, Adrien Treccani, and Christian Trevisan.
+\newblock High-frequency jump analysis of the bitcoin market.
+\newblock {\em Journal of Financial Econometrics}, 18(2):209--232, 2020.
+
+\bibitem{TanEtAl2024RobustDeepHawkesLabelNoise}
+Qing Tan et~al.
+\newblock Robust deep hawkes process under label noise of both event and
+  occurrence, 2024.
+\newblock arXiv preprint, arXiv:2407.17164.
+
+\end{thebibliography}

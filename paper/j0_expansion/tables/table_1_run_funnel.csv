@@ -1,0 +1,12 @@
+stage,metric,value,note
+event_universe,combined_event_rows,4231,TE plus Binance canonical event universe before activation filtering
+activation,primary_te_candidates,95,"primary macro_te events selected for activation, including events after market-data end"
+activation,activation_attempt_rows,380,95 events x 2 symbols x 2 empirical activation rules
+activation,computed_positive,60,input rows passed to empirical labeling
+activation,missing_market_data,316,gap-p99 still rejected these activation windows
+labeling,label_rows,60,label rows emitted from computed-positive activation rows
+labeling,computed_labels,46,PPI-primary/RR-validator computed Information or Noise
+labeling,information_labels,34,computed Information labels
+labeling,noise_labels,12,computed Noise labels
+hawkes,model_fit_rows,6,2 cohorts x M0/M1/M2
+hawkes,fit_success_rows,6,selected Hawkes optimization convergence

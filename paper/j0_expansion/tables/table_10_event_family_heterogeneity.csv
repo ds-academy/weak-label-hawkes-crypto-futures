@@ -1,0 +1,5 @@
+event_family,scored_rows,computed_count,information_count,noise_count,low_confidence_count,ppi_rr_disagreement_count,abstain_or_insufficient_count,interpretation_status
+cpi_inflation,12,12,0,12,0,0,0,interpretable_family
+ism_pmi,6,6,6,0,2,2,0,interpretable_family
+labor,16,16,16,0,16,16,0,interpretable_family
+retail_sales,14,12,12,0,12,12,2,interpretable_family

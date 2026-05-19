@@ -1,0 +1,7 @@
+cohort_name,model,log_likelihood_in_sample,log_likelihood_oos,ll_oos_delta_vs_m0,oos_rank,n_events_in_sample,n_events_oos,lrt_p_value_vs_m0,scenario_indicator,epsilon_nats
+main,M0,-5358.818270,-1340.585982,0.000000,3,10,2,NULL,baseline_m0,5.000000
+main,M1,-5358.033776,-1340.481806,0.104176,2,10,2,0.666442,B_m1_similar_oos,5.000000
+main,M2,-5358.286636,-1340.453740,0.132242,1,10,2,NULL,ablation_check_m2,5.000000
+robustness_symbol,M0,-4909.223627,-1226.240294,0.000000,3,9,2,NULL,baseline_m0,5.000000
+robustness_symbol,M1,-4909.213999,-1226.231780,0.008514,2,9,2,0.999293,B_m1_similar_oos,5.000000
+robustness_symbol,M2,-4911.339559,-1226.174056,0.066238,1,9,2,NULL,ablation_check_m2,5.000000

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="315" viewBox="0 0 760 315" role="img">
+<style>
+  .title { font: 700 24px Georgia, serif; fill: #223; }
+  .subtitle { font: 14px Georgia, serif; fill: #556; }
+  .label { font: 14px Georgia, serif; fill: #223; }
+  .value { font: 700 14px Georgia, serif; fill: #223; }
+  .small { font: 12px Georgia, serif; fill: #733; }
+</style>
+<rect width="100%" height="100%" fill="#fbf8f1"/>
+
+<text x="30" y="36" class="title">Computed Label Confidence Split</text>
+<text x="30" y="58" class="subtitle">Low confidence indicates PPI/RR disagreement preserved by the validator policy.</text>
+<text x="30" y="109" class="label">Information / High</text>
+<rect x="260" y="86" width="54.7" height="28" rx="4" fill="#b2693c"/>
+<text x="322.7" y="106" class="value">4</text>
+<text x="30" y="167" class="label">Information / Low</text>
+<rect x="260" y="144" width="410.0" height="28" rx="4" fill="#b2693c"/>
+<text x="678.0" y="164" class="value">30</text>
+<text x="30" y="225" class="label">Noise / High</text>
+<rect x="260" y="202" width="164.0" height="28" rx="4" fill="#b2693c"/>
+<text x="432.0" y="222" class="value">12</text>
+</svg>

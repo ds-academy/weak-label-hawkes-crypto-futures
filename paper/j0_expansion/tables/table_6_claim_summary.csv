@@ -1,0 +1,4 @@
+claim,evidence,paper_framing
+Pipeline executability and paper-facing reproducibility,"Versioned artifacts, digest snapshot, paper-render command, and all six Hawkes fits converged.","The weak-label exogenous Hawkes framework is executable on empirical BTC/ETH data; the rendered tables, figures, and PDF are reproducible from the shipped artifacts."
+Class-specific exogenous-component significance,main M1 p=0.666442; robustness_symbol M1 p=0.999293,No statistically significant class-specific exogenous component is detected in this first-pass sample.
+Weak-label sample size,"computed labels: Information=34, Noise=12",Power is limited; production calibration and larger event coverage are future work.

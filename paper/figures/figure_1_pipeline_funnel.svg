@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="489" viewBox="0 0 860 489" role="img">
+<style>
+  .title { font: 700 24px Georgia, serif; fill: #223; }
+  .subtitle { font: 14px Georgia, serif; fill: #556; }
+  .label { font: 14px Georgia, serif; fill: #223; }
+  .value { font: 700 14px Georgia, serif; fill: #223; }
+  .small { font: 12px Georgia, serif; fill: #733; }
+</style>
+<rect width="100%" height="100%" fill="#fbf8f1"/>
+
+<text x="30" y="36" class="title">H4 Empirical Pipeline Funnel</text>
+<text x="30" y="58" class="subtitle">Counts are row-level after activation/labeling rule expansion.</text>
+<text x="30" y="109" class="label">TE primary events</text>
+<rect x="260" y="86" width="459.0" height="28" rx="4" fill="#2c6f7c"/>
+<text x="727.0" y="106" class="value">54</text>
+<text x="30" y="167" class="label">Activation positive rows</text>
+<rect x="260" y="144" width="510.0" height="28" rx="4" fill="#2c6f7c"/>
+<text x="778.0" y="164" class="value">60</text>
+<text x="30" y="225" class="label">Computed labels</text>
+<rect x="260" y="202" width="391.0" height="28" rx="4" fill="#2c6f7c"/>
+<text x="659.0" y="222" class="value">46</text>
+<text x="30" y="283" class="label">Information labels</text>
+<rect x="260" y="260" width="289.0" height="28" rx="4" fill="#2c6f7c"/>
+<text x="557.0" y="280" class="value">34</text>
+<text x="30" y="341" class="label">Noise labels</text>
+<rect x="260" y="318" width="102.0" height="28" rx="4" fill="#2c6f7c"/>
+<text x="370.0" y="338" class="value">12</text>
+<text x="30" y="399" class="label">Successful Hawkes fits</text>
+<rect x="260" y="376" width="51.0" height="28" rx="4" fill="#2c6f7c"/>
+<text x="319.0" y="396" class="value">6</text>
+</svg>
